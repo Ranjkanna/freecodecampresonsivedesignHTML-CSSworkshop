@@ -16,6 +16,30 @@ Welcome to my repository! This space is dedicated to tracking my progress, daily
 * **JS Build a logic Checker app:** A practical workshop exploring conditional control structures and comparision operators to evaluate truthy/falsy and manage console output logic
 
 *  ![Logic Checker Output](output.png)(conditioncheckoutput.png)
-*  
+### MathBot Terminal Output:
+```text
+*    Hi there! My name is MathBot and I am here to teach you about the Math object!
+The Math.random() method returns a pseudo random number greater than or equal to 0 and less than 1.
+0.34181656476994016
+Now, generate a random number between two values.
+20.399516914213592
+The Math.floor() method rounds the value down to the nearest whole integer.
+6
+Now, generate a random integer between two values.
+68
+The Math.ceil() method rounds the value up to the nearest whole integer.
+4
+The Math.round() method rounds the value to the nearest whole integer.
+3
+11
+The Math.max() and Math.min() methods are used to get the maximum and minimum number from a range.
+125
+2
+It was fun learning about the different Math methods with you!
+```
+
+
+
+
  _______________ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ __ __ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 *Learning daily, building consistently, and pushing my code to track my development journey!*
