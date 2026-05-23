@@ -12,4 +12,5 @@ Welcome to my repository! This space is dedicated to tracking my progress, daily
 
 ** **audio and video player:** A practice task learning how to embed media elements using HTML.
 **SVG Icon:**   A frontend micro-task exploring scalable vector graphics, custom path design, and rendering clean geometric shapes directly using Html code
+_______________ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ __ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 *Learning daily, building consistently, and pushing my code to track my development journey!*
