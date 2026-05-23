@@ -37,7 +37,7 @@ The Math.max() and Math.min() methods are used to get the maximum and minimum nu
 2
 It was fun learning about the different Math methods with you!
 ```
-
+* **fortune-teller.js:** A dynamic text-based simulation utilizing mathematical scaling functions                         (`Math.random`) and strict conditional logic execution pathways to evaluate                         state and deliver randomly selected algorithmic predictions
 
 
 
