@@ -11,4 +11,5 @@ Welcome to my repository! This space is dedicated to tracking my progress, daily
 * **Travelagency:** A practice workshop file focusing on structural layout and web styling.
 
 ** **audio and video player:** A practice task learning how to embed media elements using HTML.
+**SVG Icon:**   A frontend micro-task exploring scalable vector graphics, custom path design, and rendering clean geometric shapes directly using Html code
 *Learning daily, building consistently, and pushing my code to track my development journey!*
