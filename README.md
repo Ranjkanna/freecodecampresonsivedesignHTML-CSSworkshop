@@ -41,5 +41,6 @@ It was fun learning about the different Math methods with you!
 * **video-player using iframe.html** An embedded media player application utilizing secure document sandboxing (`i frame` architectures) and cross-origin embedding standards to stream external digital content dynamically.
 * **Video-compilation Page** A responsive video dashboard that organizes and plays a curated collection of videos using a multimedia grid.
 * **Description List/terms/definition:** A semantic HTML page structuring content terms and definitions cleanly using description list elements.
+* **Blackquote.html:** A semantic HTML structure utilizing blockquote elements to cleanly format and present quoted text.
  _______________ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ __ __ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 *Learning daily, building consistently, and pushing my code to track my development journey!*
