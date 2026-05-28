@@ -42,6 +42,7 @@ It was fun learning about the different Math methods with you!
 * **Video-compilation Page** A responsive video dashboard that organizes and plays a curated collection of videos using a multimedia grid.
 * **Description List/terms/definition:** A semantic HTML page structuring content terms and definitions cleanly using description list elements.
 * **Blackquote.html:** A semantic HTML structure utilizing blockquote elements to cleanly format and present quoted text.
- * **function Calculator.js** * **calculator-core.js:** A JavaScript file with math functions (add, subtract, multiply, divide,exponent,sqrt()). It includes a safety check to stop division by zero errors.
+ * **function Calculator.js**  A JavaScript file with math functions (add, subtract, multiply, divide,exponent,sqrt()). It includes a safety check to stop division by zero errors.
+ *  **Boolean- logic-check.js** A script implementing conditional state evaluation and strict boolean truthy/falsy checks for application logic flow.
 _______________ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ __ __ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 *Learning daily, building consistently, and pushing my code to track my development journey!*
