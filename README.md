@@ -44,5 +44,6 @@ It was fun learning about the different Math methods with you!
 * **Blackquote.html:** A semantic HTML structure utilizing blockquote elements to cleanly format and present quoted text.
  * **function Calculator.js**  A JavaScript file with math functions (add, subtract, multiply, divide,exponent,sqrt()). It includes a safety check to stop division by zero errors.
  *  **Boolean- logic-check.js** A script implementing conditional state evaluation and strict boolean truthy/falsy checks for application logic flow.
+ *  * **email-masker.js:** A data privacy utility that implements string manipulation and formatting algorithms to securely mask sensitive user email addresses.
 _______________ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ __ __ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 *Learning daily, building consistently, and pushing my code to track my development journey!*
