@@ -1,4 +1,4 @@
-# FreeCodeCamp Responsive Web Design & HTML-CSS Workshop 🚀
+# FreeCodeCamp Responsive Web Design & HTML-CSS-javaScript Workshop 🚀
 
 Welcome to my repository! This space is dedicated to tracking my progress, daily labs, and workshops as I complete the **Responsive Web Design Certification** on FreeCodeCamp.
 
