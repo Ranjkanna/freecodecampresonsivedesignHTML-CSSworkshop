@@ -51,6 +51,7 @@ It was fun learning about the different Math methods with you!
 * **hotel-feedback-form.html:** A sleek, user-centric data collection form utilizing structured input types, semantic fieldsets, and responsive layout styling.
 * * **final-exams-table.html:** A structured, semantic data grid utilizing complex HTML table elements to present data layouts cleanly across different devices.
   * **bank-loan-checker.js:** A financial calculation application implementing conditional evaluation algorithms to analyze user data metrics for loan qualification.
+  *  **celsius to fahrenheit converter.js** celsius to fahrenheit converter  milestone
 ____________ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ __ __ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 *Learning daily, building consistently, and pushing my code to track my development journey!*
 
