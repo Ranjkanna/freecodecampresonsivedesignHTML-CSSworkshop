@@ -48,5 +48,6 @@ It was fun learning about the different Math methods with you!
 * **cat-blog-page.html:** A responsive web application layout featuring multi-column media components, structural content grids, and fluid layout typography rules.
 * * **event-hub.html:** An event management landing page layout structured with semantic markup, anchor-linked multi-item navigation, and responsive content sections.
 * **hotel-feedback-form.html:** A sleek, user-centric data collection form utilizing structured input types, semantic fieldsets, and responsive layout styling.
+* * **final-exams-table.html:** A structured, semantic data grid utilizing complex HTML table elements to present data layouts cleanly across different devices.
 ____________ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ __ __ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 *Learning daily, building consistently, and pushing my code to track my development journey!*
