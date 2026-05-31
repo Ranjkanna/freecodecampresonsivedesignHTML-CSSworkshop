@@ -6,6 +6,7 @@ Welcome to my repository! This space is dedicated to tracking my progress, daily
 * Semantic HTML5 elements for clean web structure.
 * CSS3 styling, layouts, and responsive designs.
 * Building clean, professional user interfaces.
+* * **javascript-certification** A comprehensive compilation repository tracking my core JavaScript certification progress, featuring modular algorithmic scripts including data privacy masking utilities, strict conditional logic evaluators, and financial checking rule engines.
 
 ## 📂 Project Showcase
 * **Travelagency:** A practice workshop file focusing on structural layout and web styling.
