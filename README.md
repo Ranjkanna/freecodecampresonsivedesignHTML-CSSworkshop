@@ -47,5 +47,6 @@ It was fun learning about the different Math methods with you!
  *  * **email-masker.js:** A data privacy utility that implements string manipulation and formatting algorithms to securely mask sensitive user email addresses.
 * **cat-blog-page.html:** A responsive web application layout featuring multi-column media components, structural content grids, and fluid layout typography rules.
 * * **event-hub.html:** An event management landing page layout structured with semantic markup, anchor-linked multi-item navigation, and responsive content sections.
-_____________ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ __ __ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+* **hotel-feedback-form.html:** A sleek, user-centric data collection form utilizing structured input types, semantic fieldsets, and responsive layout styling.
+____________ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ __ __ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 *Learning daily, building consistently, and pushing my code to track my development journey!*
