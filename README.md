@@ -54,6 +54,7 @@ It was fun learning about the different Math methods with you!
   *  **celsius to fahrenheit converter.js** celsius to fahrenheit converter  milestone
   *  **blackjack card counting strategy** It tracks the running count of a deck across multiple inputs and advises the player whether to **Bet** or **Hold**.
   *  **Leapyear.js** "A simple JavaScript function to calculate leap years, handling standard four-year intervals and century exceptions (e.g., 1900 vs 2000)."
+  * **TruncateString.js** "A JavaScript function to truncate text at a specific character limit with trailing ellipses, including safety bounds for short strings."
 ____________ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ __ __ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 *Learning daily, building consistently, and pushing my code to track my development journey!*
 
