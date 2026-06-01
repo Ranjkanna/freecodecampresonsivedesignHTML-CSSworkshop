@@ -52,6 +52,7 @@ It was fun learning about the different Math methods with you!
 * * **final-exams-table.html:** A structured, semantic data grid utilizing complex HTML table elements to present data layouts cleanly across different devices.
   * **bank-loan-checker.js:** A financial calculation application implementing conditional evaluation algorithms to analyze user data metrics for loan qualification.
   *  **celsius to fahrenheit converter.js** celsius to fahrenheit converter  milestone
+  *  **BlackjackCardCounter.js** A simple, lightweight JavaScript function that implements a standard **Hi-Lo blackjack card counting strategy**. It tracks the running count of a deck across multiple inputs and advises the player whether to **Bet** or **Hold**.
 ____________ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ __ __ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 *Learning daily, building consistently, and pushing my code to track my development journey!*
 
