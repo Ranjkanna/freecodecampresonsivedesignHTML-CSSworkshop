@@ -58,6 +58,7 @@ It was fun learning about the different Math methods with you!
   * **Confirm the Ending Tool.js** Engineered a string manipulation algorithm using negative matrix slicing constraints to securely evaluate character termination sequences without relying on high-level built-in abstractions."*
 * **Survey-form.html** A certified user data collection interface featuring semantic HTML5 input types(text,email,bounded number), curresponding field definitions, custom single and multi-select input arrays, and a multi-line open feedback text area.
 * **Debug-coding-journey.js** A content-focused web publication layout engineered with structured typographic hierarchies, semantic article definitions, and clean content blocks designed for readability and professional documentation tracking.
+* **Conference-table.html** A highly accessible tech conference timeline grid engineered with complex semantic HTML5 table architectures, coloumn-spanning layout cells('colspan'), and strict header scope definitions.
 _ _ _ _ _ _ _ _ _ _ __ __ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 *Learning daily, building consistently, and pushing my code to track my development journey!*
 
