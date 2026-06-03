@@ -56,7 +56,8 @@ It was fun learning about the different Math methods with you!
   *  **Leapyear.js** "A simple JavaScript function to calculate leap years, handling standard four-year intervals and century exceptions (e.g., 1900 vs 2000)."
   * **TruncateString.js** "A JavaScript function to truncate text at a specific character limit with trailing ellipses, including safety bounds for short strings."
   * **Confirm the Ending Tool.js** Engineered a string manipulation algorithm using negative matrix slicing constraints to securely evaluate character termination sequences without relying on high-level built-in abstractions."*
-____________ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ __ __ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+* **Survey-form.html** A certified user data collection interface featuring semantic HTML5 input types(text,email,bounded number), curresponding field definitions, custom single and multi-select input arrays, and a multi-line open feedback text area.
+_ _ _ _ _ _ _ _ _ _ __ __ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 *Learning daily, building consistently, and pushing my code to track my development journey!*
 
 
