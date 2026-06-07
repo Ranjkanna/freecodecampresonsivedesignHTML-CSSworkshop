@@ -36,4 +36,4 @@ console.log(golfScore(5,7));
 console.log(golfScore(4,8));
 
 console.log(golfScore(5,9));
-} 
+
