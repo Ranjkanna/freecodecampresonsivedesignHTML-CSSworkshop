@@ -60,7 +60,8 @@ It was fun learning about the different Math methods with you!
 * **Debug-coding-journey.js** A content-focused web publication layout engineered with structured typographic hierarchies, semantic article definitions, and clean content blocks designed for readability and professional documentation tracking.
 * **Conference-table.html** A highly accessible tech conference timeline grid engineered with complex semantic HTML5 table architectures, coloumn-spanning layout cells('colspan'), and strict header scope definitions.
 * **Debug a Donation form.html**A robust transactional input form engineered with explicit user validation boundaries, precise accessibility label associations, and synchronized configuration IDs.
-_* **Arrpushpopunshift.js** A data array manipulation module push,pop,shift,unshift and direct index mutation rules to handle dynamic data collection stacks. 
+* **Arrpushpopunshift.js** A data array manipulation module push,pop,shift,unshift and direct index mutation rules to handle dynamic data collection stacks. 
+* **GolfScoreArray.js** An algorithmic logic script utilizing complex multi-tier chained conditional evaluation and mapped global array indices to calculate relative performance metrics.
 _ _ _ _ _ _ _ _ _ __ __ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 *Learning daily, building consistently, and pushing my code to track my development journey!*
 
