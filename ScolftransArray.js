@@ -16,6 +16,7 @@ return names[4]
 }else if(strokes>=par+3){
   return names[6]
 }
+}
 console.log(golfScore(1,1));
 console.log(golfScore(3,1));
 console.log(golfScore(4,1));
@@ -33,5 +34,6 @@ console.log(golfScore(5,6));
 console.log(golfScore(3,5));
 console.log(golfScore(5,7));
 console.log(golfScore(4,8));
+
 console.log(golfScore(5,9));
 } 
