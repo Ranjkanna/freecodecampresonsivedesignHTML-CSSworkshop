@@ -62,6 +62,7 @@ It was fun learning about the different Math methods with you!
 * **Debug a Donation form.html**A robust transactional input form engineered with explicit user validation boundaries, precise accessibility label associations, and synchronized configuration IDs.
 * **Arrpushpopunshift.js** A data array manipulation module push,pop,shift,unshift and direct index mutation rules to handle dynamic data collection stacks. 
 * **GolfScoreArray.js** An algorithmic logic script utilizing complex multi-tier chained conditional evaluation and mapped global array indices to calculate relative performance metrics.
+* * **wildlife-tracker.js:** An object manipulation utility engine applying dynamic property creation, bracket/dot notation reading, property deletion operations, and strict prototype key existence checks (`hasOwnProperty`).
 _ _ _ _ _ _ _ _ _ __ __ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 *Learning daily, building consistently, and pushing my code to track my development journey!*
 
