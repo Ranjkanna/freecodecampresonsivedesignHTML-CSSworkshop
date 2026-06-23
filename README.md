@@ -63,6 +63,9 @@ It was fun learning about the different Math methods with you!
 * **Arrpushpopunshift.js** A data array manipulation module push,pop,shift,unshift and direct index mutation rules to handle dynamic data collection stacks. 
 * **GolfScoreArray.js** An algorithmic logic script utilizing complex multi-tier chained conditional evaluation and mapped global array indices to calculate relative performance metrics.
 * * **wildlife-tracker.js:** An object manipulation utility engine applying dynamic property creation, bracket/dot notation reading, property deletion operations, and strict prototype key existence checks (`hasOwnProperty`).
+ * **Recipe-tracker.js:** ### 🥗 3. Recipe Food Tracker Logic Lab
+A dynamic JavaScript application designed to track food assets, map ingredient quantities, and manage recipe states dynamically.
+
 _ _ _ _ _ _ _ _ _ __ __ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 *Learning daily, building consistently, and pushing my code to track my development journey!*
 
